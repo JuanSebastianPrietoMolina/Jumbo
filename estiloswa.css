@@ -1,0 +1,39 @@
+
+★{
+  margin:0;
+  padding: 0;
+  font-family:sans-sif;
+  box-sizing: border-box;
+  
+}
+
+body { 
+  background-color:#000000;
+    min-height: 100px; 
+}
+ 
+ form {
+  margin: auto;
+  max-width:500px;
+  width:30%;
+  padding: 3%;
+  background: #FFB218;
+  }
+  
+  h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color:  #C8CD24;
+    }
+
+    input {
+      display: block;
+      padding: 5px;
+      width: 100%;
+      margin: 30px 0;
+      font-size: 20px;
+
+    }
+    
+  
+
